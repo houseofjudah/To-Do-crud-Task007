@@ -1,0 +1,45 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins';
+}
+
+body {
+    background-color: aqua;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.container {
+    width: 360px;
+}
+
+#inputspace {
+   width: 300px;
+   height: 25px;
+   border: 1px solid rgb(232, 232, 247);
+   outline: none;
+   font-size: 20px;
+   vertical-align: middle;
+   border-radius: 15px;
+}
+
+#addToDo {
+    height: 25px;
+    width: 30px;
+    border-radius: 5px;
+}
+
+.to-dos {
+    margin-top: 15px;
+}
+
+.text-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
